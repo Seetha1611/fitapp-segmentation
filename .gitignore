@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.claude/
+
+# Données générées par le pipeline (reproductibles via les scripts, cf. README)
+data/*.csv
